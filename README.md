@@ -4,7 +4,7 @@ dockerbox is a single executable that runs docker containers based on local and 
 
 ## Install
 
-`go get github.com/sethpollack/dockerbox`
+`go get github.com/beenverifiedinc/dockerbox`
 
 Add `dockerbox` to your path
 
