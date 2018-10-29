@@ -4,8 +4,8 @@ import (
 	"io/ioutil"
 	"os"
 
-	"github.com/sethpollack/dockerbox/io"
-	"github.com/sethpollack/dockerbox/registry"
+	"github.com/BeenVerifiedInc/dockerbox/io"
+	"github.com/BeenVerifiedInc/dockerbox/registry"
 	yaml "gopkg.in/yaml.v2"
 )
 

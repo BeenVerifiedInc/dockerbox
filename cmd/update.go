@@ -1,8 +1,8 @@
 package cmd
 
 import (
-	"github.com/sethpollack/dockerbox/registry"
-	"github.com/sethpollack/dockerbox/repo"
+	"github.com/BeenVerifiedInc/dockerbox/registry"
+	"github.com/BeenVerifiedInc/dockerbox/repo"
 	"github.com/spf13/cobra"
 )
 

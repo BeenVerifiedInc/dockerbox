@@ -5,8 +5,8 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/sethpollack/dockerbox/cmd"
-	"github.com/sethpollack/dockerbox/repo"
+	"github.com/BeenVerifiedInc/dockerbox/cmd"
+	"github.com/BeenVerifiedInc/dockerbox/repo"
 )
 
 func main() {

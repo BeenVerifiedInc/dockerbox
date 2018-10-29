@@ -3,7 +3,7 @@ package registry
 import (
 	"os"
 
-	"github.com/sethpollack/dockerbox/io"
+	"github.com/BeenVerifiedInc/dockerbox/io"
 	yaml "gopkg.in/yaml.v2"
 )
 

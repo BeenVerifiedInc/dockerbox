@@ -5,8 +5,8 @@ import (
 	"os"
 	"os/exec"
 
-	"github.com/sethpollack/dockerbox/io"
-	"github.com/sethpollack/dockerbox/repo"
+	"github.com/BeenVerifiedInc/dockerbox/io"
+	"github.com/BeenVerifiedInc/dockerbox/repo"
 	"github.com/spf13/cobra"
 )
 

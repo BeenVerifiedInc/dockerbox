@@ -20,7 +20,7 @@ repos:
   path: $HOME/.dockerbox/local.yaml
   type: file
 - name: example
-  path: https://raw.githubusercontent.com/sethpollack/dockerbox/master/example/example.yaml
+  path: https://raw.githubusercontent.com/BeenVerifiedInc/dockerbox/master/example/example.yaml
   type: url
 ```
 
